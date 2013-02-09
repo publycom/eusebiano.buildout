@@ -33,3 +33,10 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+# svn
+.svn
+
+# MacOS
+.DS_Store
+._DS_Store
